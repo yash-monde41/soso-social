@@ -1,2 +1,2 @@
 # soso-social
-just a repository like any other repository.
+with great processing power comes a great repository.
